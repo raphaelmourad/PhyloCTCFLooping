@@ -1,5 +1,7 @@
 # Studying 3D genome evolution using genomic sequence
 
+![alt text](https://github.com/morphos30/PhyloCTCFLooping/blob/master/approach.png)
+
 **Overview**
 
 We propose a novel approach to study the 3D genome evolution in vertebrates using the genomic sequence only, e.g. without the need for Hi-C data. The approach is simple and relies on comparing the distances between convergent and divergent CTCF motifs (ratio R).
