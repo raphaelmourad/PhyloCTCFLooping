@@ -31,5 +31,4 @@ Raphael Mourad. Studying 3D genome evolution using genomic sequence. BioRxiv, Ma
 https://www.biorxiv.org/content/10.1101/646851v1.abstract
 
 **Contact**:
-raphael.mourad@ibcg.biotoul.fr
 raphael.mourad@univ-tlse3.fr
