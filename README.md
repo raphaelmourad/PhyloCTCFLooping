@@ -27,8 +27,8 @@ In this package, there are three main folders:
 - The folder "results" contains three subfolders: precomputed 3DR for different species (subfolder "matPvalPM"), DNA motif prediction results (subfolder "predMotif"), precomputed distances between consecutive motifs depending on orienation (subfolder "matPM") and ancestral 3DR reconstruction results (subfolder "phylo"). 
 
 **References**
-Raphael Mourad. Studying 3D genome evolution using genomic sequence. BioRxiv, May 23, 2019.
-https://www.biorxiv.org/content/10.1101/646851v1.abstract
+Raphael Mourad. Studying 3D genome evolution using genomic sequence. Bioinformatics, Volume 36, Issue 5, March 2020, Pages 1367–1373, https://doi.org/10.1093/bioinformatics/btz775
+
 
 **Contact**:
 raphael.mourad@univ-tlse3.fr
